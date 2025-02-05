@@ -16,3 +16,7 @@ Place the 995,000_rows.csv file inside the data/ directory.
 ```sh
 git check-ignore -v data/995,000_rows.csv
 ```
+for data documentation see
+```sh
+https://github.com/several27/FakeNewsCorpus
+```
