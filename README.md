@@ -14,5 +14,5 @@ Place the 995,000_rows.csv file inside the data/ directory.
 ### note to contributers
 .gitignore file is already configured to ignore everything inside the data/, you can verify that the file is ignored by running:
 ```sh
-git status
+git check-ignore -v data/995,000_rows.csv
 ```
