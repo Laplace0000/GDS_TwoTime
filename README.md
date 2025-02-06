@@ -20,3 +20,20 @@ for data documentation see
 ```sh
 https://github.com/several27/FakeNewsCorpus
 ```
+
+## Required Libraries
+The script requires the following Python libraries:
+
+1. **nltk** - Natural Language Toolkit for text processing.
+2. **pandas** - Data manipulation and analysis.
+3. **numpy** - Numerical computing.
+4. **sklearn (scikit-learn)** - Machine learning utilities
+
+## Installation Instructions
+To install the required libraries, ensure you have Python installed on your system. You can install the dependencies using `pip` by running the following command in your terminal or command prompt:
+
+```bash
+pip install nltk pandas numpy scikit-learn
+```
+
+
