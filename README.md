@@ -28,12 +28,14 @@ The script requires the following Python libraries:
 2. **pandas** - Data manipulation and analysis.
 3. **numpy** - Numerical computing.
 4. **sklearn (scikit-learn)** - Machine learning utilities
+5. **matplotlib** - Plots.
+
 
 ## Installation Instructions
 To install the required libraries, ensure you have Python installed on your system. You can install the dependencies using `pip` by running the following command in your terminal or command prompt:
 
 ```bash
-pip install nltk pandas numpy scikit-learn
+pip install nltk pandas numpy scikit-learn matplotlib
 ```
 
 
