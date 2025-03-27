@@ -31,7 +31,13 @@ The script requires the following Python libraries:
 5. **matplotlib** - Plots.
 6. **cleantext** - Corpus Cleaning
 7. **pandarallel** - paralisation
+8. **gensim**
+9. **joblib**
+10. **clean-text**
 
+## Pre-trained models
+- If you're within the institution of UCPH, you can access a repostoire of our models, pre-trained and ready for testing. This includes the Doc2Vec models, which can take a long time to train otherwise. The link is below:
+https://alumni-my.sharepoint.com/:f:/g/personal/mrs530_alumni_ku_dk/EoXl2FTCYhtAha9IFT6XmG4BEJvQKtrX2t61GiMmLc8Byw?e=zVcP8w
 
 ## Installation Instructions
 To install the required libraries, ensure you have Python installed on your system. You can install the dependencies using `pip` by running the following command in your terminal or command prompt:
